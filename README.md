@@ -1,17 +1,9 @@
-## My Project
 
-TODO: Fill this README out!
+# SOLVING DATA CHALLENGES IN CLOUD APPLICATIONS WITH REDIS
+Welcome to our workshop! We're glad you're here! 
 
-Be sure to:
+This workshop will introduce you to some of the data challenges facing modern cloud applications and show you how Redis can help you address these challenges.
 
-* Change the title in this README
-* Edit your repository description on GitHub
+We hope you enjoy what you learn, and find that what you learn will help you in developing great Cloud applications on AWS!
 
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
 

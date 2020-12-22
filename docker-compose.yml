@@ -1,0 +1,28 @@
+version: "3.8"
+services:
+  dev:
+    image: klakegg/hugo:ext-alpine
+    command: server
+    volumes:
+      - ".:/src"
+    ports:
+      - "1313:1313"
+
+  publish:
+    image: klakegg/hugo:ext-alpine
+    command: --baseUrl "http://aws-workshop.redislabs.com.s3-website-us-east-1.amazonaws.com/"
+    volumes:
+      - ".:/src"
+
+  production:
+    image: klakegg/hugo:ext-alpine
+    entrypoint: [""]
+    command: hugo deploy
+    environment:
+      - AWS_REGION
+      - AWS_ACCESS_KEY_ID
+      - AWS_SECRET_ACCESS_KEY
+    volumes:
+      - ".:/src"
+      - "$HOME/.aws:/root/.aws"
+
