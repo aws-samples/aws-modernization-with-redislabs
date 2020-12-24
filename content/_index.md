@@ -1,5 +1,5 @@
 ---
-title: "Solving Data Challenges in Cloud Applications with Redis"
+title: "Solving data challenges in cloud applications with Redis"
 chapter: true
 weight: 1
 ---
