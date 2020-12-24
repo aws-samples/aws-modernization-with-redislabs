@@ -1,6 +1,7 @@
 ---
 menuTitle: "Application"
 weight: 10
+pre: "<b>1.2 </b>"
 ---
 ## Example Application
 The example application is the Redis Movie Database. Its a simple database application with Movies as the underlying application domain. The ideas here are applicable to a wide range of domains and, hopefully, what you see and experience will help you see where you too can use Redis to enhance your users access to data.

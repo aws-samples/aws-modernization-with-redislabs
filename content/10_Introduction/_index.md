@@ -2,6 +2,7 @@
 menuTitle: "Introduction"
 chapter: true
 weight: 10
+pre: "<b>1 </b>"
 ---
 # Solving Data Challenges in Cloud Applications with Redis
 

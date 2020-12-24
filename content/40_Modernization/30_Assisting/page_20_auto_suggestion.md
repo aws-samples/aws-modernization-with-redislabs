@@ -1,6 +1,7 @@
 ---
 title: "Auto-Suggestion"
 weight: 20
+pre: "<b>3.3.2 </b>"
 ---
 Have you ever been frustrated when you know what you’re looking for but can’t quite remember what the term was? Or when you’re faced with a brand new set of documents and you’re not too sure what the critical terms are that provide information in those documents? If the answer is ‘yes’ then this is where auto-suggestion can be a big help.
  

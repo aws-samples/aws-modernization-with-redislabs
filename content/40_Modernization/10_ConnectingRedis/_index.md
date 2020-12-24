@@ -2,6 +2,7 @@
 title: "Connecting"
 chapter: true
 weight: 10
+pre: "<b>3.1 </b>"
 ---
 # Connecting From Legacy to Redis
 The rules of the game are that our our MySQL database cannot be altered but we want to use Redis to add value to the data in the database. How do we do that?

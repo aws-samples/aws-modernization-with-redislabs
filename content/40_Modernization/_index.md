@@ -2,6 +2,7 @@
 title: "Modernization"
 chapter: true
 weight: 40
+pre: "<b>3 </b>"
 ---
 # Modernizing your Legacy Application
 The 'Movies (Legacy)' application was written to show the kind of legacy application that so many users have to deal with. The application is just a bare minimum wrapper around the database fields. The application does hide the underlying database schema and associated technology, which is better than nothing, but it offers little further value to the user. 

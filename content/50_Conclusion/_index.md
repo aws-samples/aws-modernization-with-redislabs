@@ -1,6 +1,7 @@
 ---
 title: "Conclusion"
 weight: 50
+pre: "<b>4 </b>"
 ---
 In this workshop you have:
 

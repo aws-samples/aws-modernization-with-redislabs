@@ -1,6 +1,7 @@
 ---
 title: "Caching Summary"
 weight: 40
+pre: "<b>2.4 </b>"
 ---
 We showed how a slow (web) service ([OMDB]) can benefit from using Redis as a cache when the service is slow or has access restrictions. You experimented with turning caching on and off and saw how the presence or absence of a cache had a marked effect on latency and api usage.
 

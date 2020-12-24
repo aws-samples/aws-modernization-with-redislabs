@@ -1,6 +1,7 @@
 ---
 menuTitle: RedisInsight
 weight: 20
+pre: "<b>1.3.3 </b>"
 ---
 
 ### RedisInsight

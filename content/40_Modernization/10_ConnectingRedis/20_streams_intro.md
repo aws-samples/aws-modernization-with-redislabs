@@ -1,6 +1,7 @@
 ---
 title: "Introducing Redis Streams"
-weight: 20
+weight: 21
+pre: "<b>3.1.1 </b>"
 ---
 Let's dive under the covers and see [Redis Streams] through the lens of [RedisInsight].
 

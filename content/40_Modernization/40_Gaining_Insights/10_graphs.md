@@ -1,6 +1,7 @@
 ---
 title: "Redis Graph"
 weight: 10
+pre: "<b>3.4.1 </b>"
 ---
 So, let's get to work! [RedisInsight] provides a great RedisGraph interface. Open it up and let's try a little Cypher!
 

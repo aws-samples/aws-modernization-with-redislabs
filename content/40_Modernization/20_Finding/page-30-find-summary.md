@@ -1,6 +1,7 @@
 ---
 title: "Summary"
 weight: 30
+pre: "<b>3.2.3 </b>"
 ---
 So now you can see how easy Redis makes it to implement indexing and querying. Indexing is simply a one-off configuration, and the search language is small but powerful. No more servers to setup, software to download, special search systems to administer. Just continue using Redis. 
 

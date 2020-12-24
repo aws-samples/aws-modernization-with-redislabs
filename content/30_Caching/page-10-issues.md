@@ -1,6 +1,7 @@
 ---
 title: "Caching Issues"
 weight: 10
+pre: "<b>2.1 </b>"
 ---
 The [OMDB] service will help motivate us to think about caching and what it can do for us.
 

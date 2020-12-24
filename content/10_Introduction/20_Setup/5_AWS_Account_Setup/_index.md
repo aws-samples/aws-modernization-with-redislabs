@@ -1,8 +1,9 @@
-+++
-title = "AWS Account Setup"
-chapter = true
-weight = 5
-+++
+---
+title : "AWS Account Setup"
+chapter:  true
+weight :  5
+pre: "<b>1.3.1 </b>"
+---
 
 # AWS Account Setup
 {{% notice note %}}

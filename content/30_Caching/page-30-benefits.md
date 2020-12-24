@@ -1,6 +1,7 @@
 ---
 title: "Redis Caching Benefits"
 weight: 30
+pre: "<b>2.3 </b>"
 ---
 The reduction in latency is the standard use case that most people know Redis for and is Redis' biggest claim to fame. Millions of dollars have been saved by simply using Redis to cache repeated reads that used to always go to large back-end RDBMS systems.
 

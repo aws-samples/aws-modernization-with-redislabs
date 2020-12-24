@@ -1,6 +1,7 @@
 ---
 title: "RediSearch in Action"
 weight: 10
+pre: "<b>3.2.1 </b>"
 ---
 To see [RediSearch] in action choose the 'Search -> Movies' drop down. You’ll see a page with a search bar containing an asterisk ‘*’, and the results of that search (which, in this case, is all titles or plots matching the wildcard ‘*’. i.e. all movies!).
 

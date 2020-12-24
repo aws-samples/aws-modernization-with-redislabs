@@ -1,8 +1,9 @@
-+++
-title = "Create an AWS account"
-chapter = false
-weight = 1
-+++
+---
+title: "Create an AWS account"
+chapter: false
+weight: 1
+pre: "<b>1.3.1.2 </b>"
+---
 
 {{% notice note %}}
 If you already have an AWS account, and have IAM Administrator access, you can skip this page.

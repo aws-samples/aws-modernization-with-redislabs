@@ -1,6 +1,7 @@
 ---
 menuTitle: "Example Application"
 weight: 10
+pre: "<b>1.3.2 </b>"
 ---
 ## Installing the Example Application
 Install the example application by using AWS' Cloudformation. Simply click on this link:

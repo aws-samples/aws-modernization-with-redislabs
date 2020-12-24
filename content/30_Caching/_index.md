@@ -2,6 +2,7 @@
 title: "Caching"
 chapter: true
 weight: 30
+pre: "<b>2 </b>"
 ---
 # Redis Caching
 Redis is known as a cache. Indeed, this is perhaps the main thing that people think about when they hear 'Redis'. But you, dear reader, might not have used Redis as a cache so, for completeness sake, lets work through a simple cache example, using the OMDB web service, so that we're all on the same page when it comes to this basic Redis use case.

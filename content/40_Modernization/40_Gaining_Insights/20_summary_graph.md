@@ -1,6 +1,7 @@
 ---
 title: "Summary"
 weight: 20
+pre: "<b>3.4.2 </b>"
 ---
 In this part of the workshop you've had a small taset of using Redis Graph and the associated Cypher graph language. If you have even a passing familiarity with SQL you hopefully have seen how easy it is to construct a query in Cypher which would be far harder to construct in SQL and/or run far more slowly.
 

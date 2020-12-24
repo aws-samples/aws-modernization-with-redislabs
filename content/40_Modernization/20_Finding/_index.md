@@ -2,6 +2,7 @@
 title: "Finding What You Want"
 chapter: true
 weight: 20
+pre: "<b>3.2 </b>"
 ---
 # Finding What You Want
 How many times do you forget the movie, but remember the plot, or something about the plot? How many times do you simply remember some character, or maybe the year of the movie? Or just words in the title, but not the whole title? Wouldn’t it be great if you could comment on a movie and your application would remember those comments and you could search for that movie by comment?

@@ -1,6 +1,7 @@
 ---
 title: "Turning on Caching"
 weight: 20
+pre: "<b>2.2 </b>"
 ---
 So lets turn on caching!
 

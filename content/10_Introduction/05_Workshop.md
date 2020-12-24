@@ -1,6 +1,7 @@
 ---
 menuTitle: "Workshop"
 weight: 5
+pre: "<b>1.1 </b>"
 ---
 
 # Workshop Introduction

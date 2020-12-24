@@ -1,6 +1,7 @@
 ---
 title: "Generating Events in Redis Streams"
 weight: 30
+pre: "<b>3.1.2 </b>"
 ---
 Let's generate some change events and see what happens. We’ll update a movie, and see how that is reflected in the stream.
 

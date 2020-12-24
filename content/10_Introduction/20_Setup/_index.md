@@ -3,6 +3,7 @@ title: "Setup Instructions"
 menuTitle: "Setup"
 chapter: true
 weight: 30
+pre: "<b>1.3 </b>"
 ---
 ## Workshop Setup
 To setup the workshop you're going to have to:

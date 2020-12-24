@@ -1,6 +1,7 @@
 ---
 title: "Search under the covers"
 weight: 20
+pre: "<b>3.2.2 </b>"
 ---
 Let's look under the covers and get to grips with search using [RedisInsight]
 

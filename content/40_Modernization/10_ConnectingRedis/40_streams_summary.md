@@ -1,6 +1,7 @@
 ---
 title: "Redis Streams - summary"
 weight: 40
+pre: "<b>3.1.3 </b>"
 ---
 We've now shown that we can feed changes from a legacy system (in this case a MySQL database) into Redis using Redis Streams, and that by having Consumer Groups process these streams we get ordering and failure guarantees.
 

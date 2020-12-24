@@ -1,6 +1,7 @@
 ---
 title: "Faceted Search"
-weight: 10
+weight: 11
+pre: "<b>3.3.1 </b>"
 ---
 What 'faceted search' provides is a means for uses to interact with 'facets' or 'attributes' of data which have a defined range of values. In our movie case obvious facets are 
 
